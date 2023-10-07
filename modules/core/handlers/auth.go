@@ -3,9 +3,9 @@ package handlers
 import (
 	"net/http"
 
-	"github.com/dzungtran/echo-rest-api/config"
-	"github.com/dzungtran/echo-rest-api/modules/core/usecases"
-	"github.com/dzungtran/echo-rest-api/pkg/middlewares"
+	"github.com/omid9h/echo-boilerplate/config"
+	"github.com/omid9h/echo-boilerplate/modules/core/usecases"
+	"github.com/omid9h/echo-boilerplate/pkg/middlewares"
 	"github.com/labstack/echo/v4"
 )
 
