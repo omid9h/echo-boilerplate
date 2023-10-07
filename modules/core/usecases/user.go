@@ -3,12 +3,12 @@ package usecases
 import (
 	"context"
 
-	"github.com/dzungtran/echo-rest-api/modules/core/domains"
-	"github.com/dzungtran/echo-rest-api/modules/core/dto"
-	"github.com/dzungtran/echo-rest-api/modules/core/repositories"
-	"github.com/dzungtran/echo-rest-api/pkg/contexts"
-	"github.com/dzungtran/echo-rest-api/pkg/cue"
-	"github.com/dzungtran/echo-rest-api/pkg/utils"
+	"github.com/omid9h/echo-boilerplate/modules/core/domains"
+	"github.com/omid9h/echo-boilerplate/modules/core/dto"
+	"github.com/omid9h/echo-boilerplate/modules/core/repositories"
+	"github.com/omid9h/echo-boilerplate/pkg/contexts"
+	"github.com/omid9h/echo-boilerplate/pkg/cue"
+	"github.com/omid9h/echo-boilerplate/pkg/utils"
 	"github.com/jinzhu/copier"
 )
 

@@ -3,8 +3,8 @@ package utils
 import (
 	"strconv"
 
-	"github.com/dzungtran/echo-rest-api/pkg/constants"
-	"github.com/dzungtran/echo-rest-api/pkg/logger"
+	"github.com/omid9h/echo-boilerplate/pkg/constants"
+	"github.com/omid9h/echo-boilerplate/pkg/logger"
 	"github.com/labstack/echo/v4"
 )
 

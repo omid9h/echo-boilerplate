@@ -5,9 +5,9 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/dzungtran/echo-rest-api/modules/core/domains"
-	"github.com/dzungtran/echo-rest-api/modules/core/dto"
-	"github.com/dzungtran/echo-rest-api/pkg/constants"
+	"github.com/omid9h/echo-boilerplate/modules/core/domains"
+	"github.com/omid9h/echo-boilerplate/modules/core/dto"
+	"github.com/omid9h/echo-boilerplate/pkg/constants"
 	"github.com/labstack/echo/v4"
 )
 
