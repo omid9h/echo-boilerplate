@@ -1,4 +1,4 @@
-module github.com/dzungtran/echo-rest-api
+module github.com/omid9h/echo-boilerplate
 
 go 1.19
 
